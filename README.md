@@ -11,7 +11,7 @@ Make sure you have the following installed:
 - A text editor like [VS Code](https://code.visualstudio.com/)
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation and Execution
 
 Clone the repository and install dependencies:
 
